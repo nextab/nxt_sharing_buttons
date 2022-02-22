@@ -1,0 +1,23 @@
+.nxt_sharing_buttons {
+  align-items: center;
+  display: flex;
+  flex-flow: column nowrap;
+  gap: 0 2rem;
+  justify-content: center;
+}
+.nxt_sharing_buttons .sharing_buttons_header {
+  padding-bottom: 1.5rem;
+}
+.nxt_sharing_buttons .JvPeek {
+  display: flex;
+  flex-flow: row wrap;
+  gap: 0 1.5rem;
+  justify-content: center;
+  list-style: none;
+  padding-left: 0;
+}
+.nxt_sharing_buttons .JvPeek a {
+  font-family: "EtModules";
+  font-size: 2rem;
+  text-decoration: none;
+}
